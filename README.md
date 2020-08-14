@@ -20,18 +20,7 @@
             "Institución": "SENA",
             "Carrera": "Media Técnica en Programación"
         }
-    ],
-    "Habilidades": [
-        "HTML", "CSS", "Sass", "Ecmascript 6+", "GitHub", "Accesibilidad", "Escritura Online", "Firebase", "Scrum", "Slack", "Trello"
-    ],
-    "Descripción": "Frontend Vue JS 💻 ~ Gestor de Transformación digital 🌐 ~ Estudiante Eterno 💚",
-    "Links": {
-        "Twitter": "https://twitter.com/JuanEGalvis",
-        "Linkedin": "https://www.linkedin.com/in/juanegalvis/",
-        "GitHub": "https://wwwgithub.com/JuanesGalvis",
-        "Blog": "https://www.notion.so/Scope-indefinido-a571a1662f4b4c16affe748f24d6f062",
-        "WebSite": "https://juangalvis.netlify.app"
-    }
+    ]
 }
 ````
 
