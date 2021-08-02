@@ -26,10 +26,11 @@
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
-<h2> 📱🖌 Diseño UI : </h2>
+<h2> 📱🖌 Diseño UI ~ Documentación : </h2>
 <p>
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-ff7c00?style=flat-square&logo=adobe-illustrator&logoColor=261300&labelColor=ff7c00" />
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-2f323b?style=flat-square&logo=figma&logoColor=white" />
+    <img alt="Notion" src="https://img.shields.io/badge/-Notion-ffffff?style=flat-square&logo=notion&logoColor=000000" />
 </p>
 
 ---------------------------------------------
