@@ -3,34 +3,35 @@
 <p align="center"> <a href="https://twitter.com/JuanEGalvis"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png" /> </a> <a href="https://www.linkedin.com/in/juanegalvis/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" /> </a> <a href="https://www.instagram.com/juanesgalvisb/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /> </a>
 </p>
 
-<h2> 🎨🖥 Frontend : </h2>
+<h2> 👨‍💻 Full Stack 🎨 </h2>
+<p>Desarrollador con la capacidad de crear aplicaciones web desde su configuración, diseño, programación, documentación y despliegue. Mediante las siguientes tecnologías, librerías y plataformas:</p>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-34495E?style=flat-square&logo=Vue.js&logoColor=white%22" />
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
+<h4>📦 Herramientas y complementos:</h4>
 <p>
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=f7df1e" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="pug" src="https://img.shields.io/badge/-Pug-a86454?style=flat-square&logo=pug&logoColor=white" />
-  <img alt="sass" src="https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Chrome DevTools" src="https://img.shields.io/badge/-Chrome_DevTools-000000?style=flat-square&logo=google-chrome&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Styled Component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img alt="Git y GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=black" />
+  <img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-100000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-<h2> 🗃🌐 Backend : </h2>
+<h2> 🎨 Diseño y Documentación 📃 : </h2>
 <p>
-    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+    <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
-<h2> 📱🖌 Diseño UI ~ Documentación : </h2>
+<h2> 📚 Otros - Aprendiendo 📚 </h2>
 <p>
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-ff7c00?style=flat-square&logo=adobe-illustrator&logoColor=261300&labelColor=ff7c00" />
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-2f323b?style=flat-square&logo=figma&logoColor=white" />
-    <img alt="Notion" src="https://img.shields.io/badge/-Notion-ffffff?style=flat-square&logo=notion&logoColor=000000" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+    <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---------------------------------------------
@@ -53,7 +54,7 @@ const JuanGalvis = {
     animesFavoritos: [
         'Shingeki no Kyojin 🕊',
         'One-Punch Man 👊🏼',
-        'Naruto: Shippuden 🔥'
+        'Kimetsu no Yaiba 🔥'
     ],
     saludar: (TuNombre) => {
         console.log(`Hola ${TuNombre} 👋🏼 bienvenido a mi GitHub`)
