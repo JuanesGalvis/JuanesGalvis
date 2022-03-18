@@ -1,4 +1,4 @@
-![Frontend 💻 - UI Designer 🎨 - GALVIS](https://repository-images.githubusercontent.com/278429059/cb053182-8d50-4e83-b02b-b826a14d4b76)
+![Full Stack MERN 💻 - Diseño UI 🎨 - GALVIS](https://repository-images.githubusercontent.com/278429059/20dc313b-8f48-4bd2-bce5-f90f3aecaa1c)
 
 <p align="center"> <a href="https://twitter.com/JuanEGalvis"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png" /> </a> <a href="https://www.linkedin.com/in/juanegalvis/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" /> </a> <a href="https://www.instagram.com/juanesgalvisb/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /> </a>
 </p>
