@@ -1,6 +1,3 @@
-<p align="center"> <a href="https://twitter.com/JuanEGalvis"> <img src="https://img.icons8.com/fluent/35/000000/twitter.png" /> </a> <a href="https://www.linkedin.com/in/juanegalvis/"> <img src="https://img.icons8.com/color/35/000000/linkedin.png" /> </a> <a href="https://www.instagram.com/juanesgalvisb/"> <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png" /> </a>
-</p>
-
 ![Full Stack MERN 💻 - Diseño UI 🎨 - GALVIS](https://repository-images.githubusercontent.com/278429059/20dc313b-8f48-4bd2-bce5-f90f3aecaa1c)
 
 <table border="0">
@@ -10,6 +7,8 @@
 	</td>
 	<td>
 			<p>Desarrollador <b>👨‍💻 Full Stack 🎨</b>  de aplicaciones web desde sitios web informativos hasta aplicaciones completas con autenticación, base de datos e interacción en tiempo real. Con la capacidad de desarrollar desde la configuración, diseño, programación y publicación.</p>
+		<p align="center"> <a href="https://twitter.com/JuanEGalvis"> <img src="https://img.icons8.com/fluent/35/000000/twitter.png" /> </a> <a href="https://www.linkedin.com/in/juanegalvis/"> <img src="https://img.icons8.com/color/35/000000/linkedin.png" /> </a> <a href="https://www.instagram.com/juanesgalvisb/"> <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png" /> </a>
+</p>
 	</td>
    </tr>
 </table>
